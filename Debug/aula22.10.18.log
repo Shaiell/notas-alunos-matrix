@@ -1,0 +1,4 @@
+﻿  aula22.10.18.cpp
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\aula22.10.18\aula22.10.18.cpp(23): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\aula22.10.18\aula22.10.18.cpp(29): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  aula22.10.18.vcxproj -> C:\Users\jclri\Desktop\Faculdade\Algoritmos de Programação II\aula22.10.18\Debug\aula22.10.18.exe
